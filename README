@@ -1,0 +1,26 @@
+# Employee Attrition Analysis – Green Destination Agency
+
+This project analyzes employee attrition (leaving/resignation) patterns at **Green Destination Agency** using Excel.  
+The goal is to identify the key reasons behind employee turnover and provide insights that can help reduce attrition.  
+
+## Key Highlights
+- Data cleaning and preparation in Excel  
+- Attrition rate calculation and trend analysis  
+- Pivot tables and charts to explore patterns  
+- Insights on factors like age, gender, department, and experience  
+- Dashboard summarizing employee leaving trends  
+
+## Files
+- `Attrition_Analysis.xlsx` → Main Excel project with dashboard and charts  
+- `Employee_Data.xlsx` → Dataset used for analysis  
+
+## Insights
+- Departments with the highest attrition  
+- Age groups most likely to leave the company  
+- Comparison between male vs. female attrition  
+- Correlation between experience and leaving trends  
+
+## Screenshot
+## Dashboard Screenshot
+[Dashboard](dashboard.png)
+
